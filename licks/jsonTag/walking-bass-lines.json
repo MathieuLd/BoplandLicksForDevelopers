@@ -1,0 +1,1196 @@
+{
+    "name": "walking-bass-lines",
+    "count": 202,
+    "title": "Walking Bass Lines",
+    "alt": "Walking bass line",
+    "data": {
+        "changes": {
+            "4/4": {
+                "| ab7 | db7 | ab7 | ab7 | db7 | db7 | ab7 | f7 | bbm | eb7 | ab7 |": [
+                    "auKgTJLQ",
+                    "fFO2qTyD"
+                ],
+                "| bbm | eb7 | ab | f7 | bbm | eb7 | ab | f7 | bbm |": [
+                    "VfREVu0u"
+                ],
+                "| eb7 | ab7 | eb7 | eb7 | ab7 | ab7 | eb7 | c7 |": [
+                    "UvIqMmbP"
+                ],
+                "| c7 | f7 | c7 | c7 | f7 | f7 | c7 | a7 | dm |": [
+                    "RkLqdgeN",
+                    "lvygXFUe",
+                    "3HpINDab",
+                    "i5d0UiIU",
+                    "jt6TKUWq"
+                ],
+                "| abm | db7 | gb | cb | fm7-5 | bb7 | ebm | eb7 | abm |": [
+                    "cIzcZm1t",
+                    "iMGUdlul",
+                    "GbSonrgi",
+                    "8BYnmF75"
+                ],
+                "| em | a7 | d | b7 | em | a7 | d | b7 | em |": [
+                    "XQ1dpNvj"
+                ],
+                "| c#m | f#7 | b | e | a#m7-5 | d#7 | g#m | g#7 | c#m |": [
+                    "ilYbNaaa",
+                    "D1Wy0tbJ",
+                    "jHX5r15F",
+                    "RQYjfFil"
+                ],
+                "| em | am | d7 | g | c | f#7 | b | b |": [
+                    "axNl1LxL"
+                ],
+                "| c#m | f#7 | b | e | a#m7-5 | d#7 | g#m | g#7 |": [
+                    "8PKZ4SC0"
+                ],
+                "| f#m | bm | e7 | a | d | g#7 | c# |": [
+                    "eAuYOQ4l"
+                ],
+                "| g#m | c#m | f#7 | b | e | a#7 | d# | d# |": [
+                    "X85BZ1bP"
+                ],
+                "| am | d7 | g | e7 | am | d7 | g | e7 |": [
+                    "cSKbmXwR",
+                    "lw3eKmo9"
+                ],
+                "| dm | g7 | c | a7 | dm | g7 | c | a7 |": [
+                    "0xc683Cy"
+                ],
+                "| fm | bb7 | eb | c7 | fm | bb7 | eb | c7 |": [
+                    "wTyUtnwa",
+                    "efhAd314"
+                ],
+                "| e7 | a7 | e7 | e7 | a7 | a7 | e7 | c#7 |": [
+                    "NIYCwLps",
+                    "2hh2NOg8"
+                ],
+                "| bm | e7 | a | f#7 | bm | e7 | a |": [
+                    "0KnIR7L6"
+                ],
+                "| f7 | bb7 | f7 | f7 | bb7 | bb7 | f7 | d7 |": [
+                    "HQG9GzaV",
+                    "Uusn9UWw"
+                ],
+                "| cm | f7 | bb | eb | am7-5 | d7 | gm | g7 | cm |": [
+                    "bbEltEVP"
+                ],
+                "| ebm | ab7 | db | bb7 | ebm | ab7 | db |": [
+                    "PxSmPi13"
+                ],
+                "| ebm | ab7 | db | gb | cm7-5 | f7 | bbm | bb7 | ebm |": [
+                    "1CRkLemF",
+                    "IkGsufwG"
+                ],
+                "| em | a7 | d | g | c#m7-5 | f#7 | bm | b7 |": [
+                    "anvUMXV8"
+                ],
+                "| ab7 | db7 | ab7 | ab7 | db7 | db7 | ab7 | f7 |": [
+                    "yKFd6W3n"
+                ],
+                "| gm | c7 | f | d7 | gm | c7 | f | d7 | gm |": [
+                    "TXaxwaKw"
+                ],
+                "| gm | c7 | f | d7 | gm | c7 | f |": [
+                    "4vCBWjvn",
+                    "MQSTuy48",
+                    "R2MgLs4l"
+                ],
+                "| fm | bb7 | eb | ab | dm7-5 | g7 | cm | c7 |": [
+                    "bDy1ekrx",
+                    "xkHVGeKb",
+                    "eVFXfTjb"
+                ],
+                "| abm | db7 | gb | eb7 | abm | db7 | gb | eb7 | abm | db7 |": [
+                    "wZ1nqEoU"
+                ],
+                "| gb7 | cb7 | gb7 | gb7 | cb7 | cb7 | gb7 | eb7 | abm |": [
+                    "RcYlEcCx",
+                    "E7pz4856"
+                ],
+                "| em | a7 | d | b7 | em | a7 | d | b7 |": [
+                    "SYBbAxIG",
+                    "aC5kp0Tz"
+                ],
+                "| am | dm | g7 | c | f | b7 | e | e |": [
+                    "SdNlCeSC"
+                ],
+                "| e7 | a7 | e7 | e7 | a7 | a7 | e7 | c#7 | f#m |": [
+                    "MXpiLyYY",
+                    "bgYgE7vm"
+                ],
+                "| fm | bbm | eb7 | ab | db | g7 | c | c |": [
+                    "0Ig57pIa",
+                    "IUCCaGJP",
+                    "11SHykUH"
+                ],
+                "| fm | bb7 | eb | c7 | fm |": [
+                    "RuM6kCaJ",
+                    "r1Ax6ecs"
+                ],
+                "| c#m | f#7 | b | g#7 | c#m | f#7 | b | g#7 |": [
+                    "SBvAX9wv",
+                    "s0Mespml"
+                ],
+                "| dm | g7 | c | a7 | dm | g7 | c |": [
+                    "UEVLsvP8",
+                    "AsjBrNaO",
+                    "bPmb1qaa",
+                    "R6jIskzl"
+                ],
+                "| g#m | c#7 | f# | d#7 | g#m | c#7 | f# | d#7 | g#m |": [
+                    "hn6FLUKV",
+                    "yaMasPZt"
+                ],
+                "| cm | f7 | bb | g7 | cm | f7 | bb |": [
+                    "5OOhQ7XI"
+                ],
+                "| g#m | c#7 | f# | d#7 | g#m | c#7 | f# | d#7 |": [
+                    "o0KbR7ur",
+                    "vKBZacs6",
+                    "mpkhCvRR"
+                ],
+                "| bbm | eb7 | ab | db | gm7-5 | c7 | fm | f7 |": [
+                    "ZivHo4kV",
+                    "uWbLGicp"
+                ],
+                "| bbm | eb7 | ab | f7 | bbm | eb7 | ab | f7 |": [
+                    "bWBAseTY",
+                    "MXkT2i5Y",
+                    "lu3mlqFJ"
+                ],
+                "| gm | c7 | f | bb | em7-5 | a7 | dm | d7 |": [
+                    "UsZMTZfe"
+                ],
+                "| gm | c7 | f | bb | em7-5 | a7 | dm | d7 | gm |": [
+                    "OGEfUAXd",
+                    "XWWIh59d",
+                    "z9wddsfE",
+                    "MaJTI1zp"
+                ],
+                "| cm | f7 | bb | eb | am7-5 | d7 | gm | g7 |": [
+                    "VaMANkC7",
+                    "0DNNQhJv"
+                ],
+                "| ebm | ab7 | db7 | gb | cb | f7 | bb |": [
+                    "EM4eb7EE"
+                ],
+                "| g#m | c#7 | f# | b | e#m7-5 | a#7 | d#m | d#7 | g#m |": [
+                    "WPbTB5pF",
+                    "fBfNCkqF",
+                    "z1dweeEc",
+                    "H5eA3Y5G",
+                    "409VqXQb"
+                ],
+                "| dm | g7 | c | f | bm7-5 | e7 | am | a7 | dm |": [
+                    "2A48Asbh",
+                    "8SeG0Nmh"
+                ],
+                "| fm | bb7 | eb | c7 | fm | bb7 | eb |": [
+                    "b88PwBUk"
+                ],
+                "| gm | cm | f7 | bb | eb | a7 | d | d |": [
+                    "uO9Jy9DG"
+                ],
+                "| b7 | e7 | b7 | b7 | e7 | e7 | b7 | g#7 | c#m |": [
+                    "Hs1a6Ayn"
+                ],
+                "| f#7 | b7 | f#7 | f#7 | b7 | b7 | f#7 | d#7 | g#m |": [
+                    "jN0SrK1N",
+                    "px0eyXz7",
+                    "6ES9wafy",
+                    "hzL3D9x9",
+                    "73gKFGDW"
+                ],
+                "| em | am | d7 | g | c | f#7 | b |": [
+                    "xJ6I2riv"
+                ],
+                "| fm | bbm | eb7 | ab | db | g7 | c |": [
+                    "JOBvE2NO",
+                    "iVGHTl7G"
+                ],
+                "| eb7 | ab7 | eb7 | eb7 | ab7 | ab7 | eb7 | c7 | fm |": [
+                    "HAnNqaNd",
+                    "AruEJHKE",
+                    "Mm5RiKG9"
+                ],
+                "| cm | f7 | bb | eb | am7-5 | d7 | gm |": [
+                    "ba8SNIkb",
+                    "5bD8JZPo"
+                ],
+                "| d7 | g7 | d7 | d7 | g7 | g7 | d7 | b7 | em |": [
+                    "for8s8Um",
+                    "ZVws5BsL",
+                    "RuAAw5sk",
+                    "JlGf96V7",
+                    "gaVNwYVb"
+                ],
+                "| f#m | b7 | e | c#7 | f#m | b7 | e | c#7 | f#m |": [
+                    "NbSBuLRo",
+                    "HyyiT1sZ"
+                ],
+                "| cm | f7 | bb | g7 | cm | f7 | bb | g7 |": [
+                    "nXatxbgK",
+                    "4Y4bNbaw",
+                    "leIjQoHK",
+                    "bvVbBI5z"
+                ],
+                "| gm | c7 | f | d7 | gm | c7 | f | d7 |": [
+                    "tapoHpXb"
+                ],
+                "| f7 | bb7 | f7 | f7 | bb7 | bb7 | f7 | d7 | gm |": [
+                    "lUXC6ZMZ",
+                    "BbS81bKO",
+                    "ZAnkSdPT",
+                    "7YAsq5X3"
+                ],
+                "| abm | db7 | gb | eb7 | abm | db7 | gb | eb7 | abm |": [
+                    "wMUs7vGt",
+                    "LaFlz0e5",
+                    "eZCFbxo4"
+                ],
+                "| bm | e7 | a | f#7 | bm | e7 | a | f#7 | bm |": [
+                    "EbIN65gW",
+                    "Dv8sdi74",
+                    "1Q653lLW"
+                ],
+                "| ebm | ab7 | db | bb7 | ebm | ab7 | db | bb7 |": [
+                    "khejlxZ8",
+                    "Vm9hyvzN"
+                ],
+                "| a7 | d7 | a7 | a7 | d7 | d7 | a7 | f#7 |": [
+                    "1kCzdMXA",
+                    "dYqEZXCk",
+                    "xGwZ5wXY"
+                ],
+                "| bbm | eb7 | ab | db | gm7-5 | c7 | fm | f7 | bbm |": [
+                    "rf5u7jnW",
+                    "7JmQszOe",
+                    "9QrCV40p"
+                ],
+                "| c#m | f#7 | b | g#7 | c#m | f#7 | b |": [
+                    "4WabSuQU",
+                    "aTbw2ZBU",
+                    "K40TQexu"
+                ],
+                "| ebm | ab7 | db | gb | cm7-5 | f7 | bbm | bb7 |": [
+                    "WSI7THQK",
+                    "I4cUmL4H",
+                    "MbNMnBB3"
+                ],
+                "| gb7 | cb7 | gb7 | gb7 | cb7 | cb7 | gb7 | eb7 |": [
+                    "n5jxwzEO"
+                ],
+                "| dbm | gbm | cb7 | fb | bbb | eb7 | ab | ab |": [
+                    "Np7AhBo3"
+                ],
+                "| f#m | b7 | e | c#7 | f#m | b7 | e | c#7 |": [
+                    "bVUvTUsO",
+                    "4zhTMQxE",
+                    "rtSYYJpw"
+                ],
+                "| fm | bb7 | eb | ab | dm7-5 | g7 | cm | c7 | fm |": [
+                    "9rtuOcHR",
+                    "tQrQEaV7"
+                ],
+                "| abm | db7 | gb | eb7 | abm | db7 | gb | eb7 |": [
+                    "u93d4Bvi"
+                ],
+                "| g7 | c7 | g7 | g7 | c7 | c7 | g7 | e7 | am | d7 | g7 |": [
+                    "lyHnQTO5",
+                    "t7dcIDae",
+                    "dvVY3EYC"
+                ],
+                "| em | a7 | d | g | c#m7-5 | f#7 | bm | b7 | em |": [
+                    "xH1W16jM",
+                    "6TAofOVk",
+                    "xxRvwyfn",
+                    "HaCbhJ86"
+                ],
+                "| b7 | e7 | b7 | b7 | e7 | e7 | b7 | g#7 |": [
+                    "ehfasVso"
+                ],
+                "| bb7 | eb7 | bb7 | bb7 | eb7 | eb7 | bb7 | g7 | cm |": [
+                    "XFruJEmn",
+                    "TGbrytbS",
+                    "AMzwUUn8",
+                    "ZrDV5xUO",
+                    "0FLZnEUE"
+                ],
+                "| am | d7 | g | e7 | am | d7 | g | e7 | am |": [
+                    "i2QABcPN",
+                    "tkaUxR8S"
+                ],
+                "| f#m | b7 | e | a | d#m7-5 | g#7 | c#m | c#7 | f#m |": [
+                    "2ymbXJE4",
+                    "SPXYRGkF",
+                    "Y90ljfal",
+                    "bYRyypyU",
+                    "E9bDaLvS"
+                ],
+                "| bm | e7 | a | f#7 | bm | e7 | a | f#7 |": [
+                    "6o3KybWZ"
+                ],
+                "| em | a7 | d | b7 | em | a7 | d |": [
+                    "bDvhaaQV",
+                    "FgOhcsxi"
+                ],
+                "| db7 | gb7 | db7 | db7 | gb7 | gb7 | db7 | bb7 |": [
+                    "JUTH0dpa",
+                    "IvnOopt0"
+                ],
+                "| abm | db7 | gb | cb | fm7-5 | bb7 | ebm | eb7 |": [
+                    "Oko3gqFI"
+                ],
+                "| db7 | gb7 | db7 | db7 | gb7 | gb7 | db7 | bb7 | ebm |": [
+                    "yKl4PjY9",
+                    "RTVhZZMc"
+                ],
+                "| dm | g7 | c | f | bm7-5 | e7 | am | a7 |": [
+                    "eAvCtSyD",
+                    "6c1MVtXr",
+                    "49GAjH8P"
+                ],
+                "| bm | e7 | a | d | g#m7-5 | c#7 | f#m | f#7 | bm |": [
+                    "AXS3sVGP",
+                    "RmtnKktl",
+                    "9ug92LwQ",
+                    "DGNKMPKK",
+                    "bGOS7LCE"
+                ],
+                "| g7 | c7 | g7 | g7 | c7 | c7 | g7 | e7 | am |": [
+                    "YtVEMwJk"
+                ],
+                "| ab7 | db7 | ab7 | ab7 | db7 | db7 | ab7 | f7 | bbm |": [
+                    "0hNnAckm"
+                ],
+                "| am | d7 | g | c | f#m7-5 | b7 | em | e7 | am |": [
+                    "j1mkWOah",
+                    "8lLh5dpm",
+                    "UlasNfa9",
+                    "9XK9JLUP",
+                    "IVLPh4lF",
+                    "Vro71ZJj"
+                ],
+                "| b7 | e7 | b7 | b7 | e7 | e7 | b7 | g#7 | c#m | f#7 | b7 |": [
+                    "IfbPTg0a"
+                ],
+                "| eb7 | ab7 | eb7 | eb7 | ab7 | ab7 | eb7 | c7 | fm | bb7 | eb7 |": [
+                    "eo9cfMGv"
+                ],
+                "| a7 | d7 | a7 | a7 | d7 | d7 | a7 | f#7 | bm |": [
+                    "MGkdEubE",
+                    "3aze7Sjo"
+                ],
+                "| bbm | eb7 | ab | f7 | bbm | eb7 | ab |": [
+                    "6SSIYvo0"
+                ],
+                "| am | d7 | g | e7 | am | d7 | g |": [
+                    "NnUXaFc9"
+                ],
+                "| ebm | ab7 | db | bb7 | ebm | ab7 | db | bb7 | ebm |": [
+                    "nbkBiQhW",
+                    "wNzUgmgW"
+                ]
+            }
+        },
+        "harmony": {
+            "4/4": {
+                " bm e a d g#m-5 c# f#m f# bm ": [
+                    "AXS3sVGP",
+                    "RmtnKktl",
+                    "9ug92LwQ",
+                    "DGNKMPKK",
+                    "bGOS7LCE"
+                ],
+                " gm c f d gm c f d gm ": [
+                    "TXaxwaKw"
+                ],
+                " f#m bm e a d g# c# ": [
+                    "eAuYOQ4l"
+                ],
+                " bbm eb ab db gm-5 c fm f bbm ": [
+                    "rf5u7jnW",
+                    "7JmQszOe",
+                    "9QrCV40p"
+                ],
+                " am d g e am d g ": [
+                    "NnUXaFc9"
+                ],
+                " dm g c a dm g c a ": [
+                    "0xc683Cy"
+                ],
+                " abm db gb cb fm-5 bb ebm eb abm ": [
+                    "cIzcZm1t",
+                    "iMGUdlul",
+                    "GbSonrgi",
+                    "8BYnmF75"
+                ],
+                " am d g e am d g e am ": [
+                    "i2QABcPN",
+                    "tkaUxR8S"
+                ],
+                " fm bbm eb ab db g c ": [
+                    "JOBvE2NO",
+                    "iVGHTl7G"
+                ],
+                " a d a a d d a f# ": [
+                    "1kCzdMXA",
+                    "dYqEZXCk",
+                    "xGwZ5wXY"
+                ],
+                " f#m b e c# f#m b e c# f#m ": [
+                    "NbSBuLRo",
+                    "HyyiT1sZ"
+                ],
+                " cm f bb eb am-5 d gm g ": [
+                    "VaMANkC7",
+                    "0DNNQhJv"
+                ],
+                " gb cb gb gb cb cb gb eb ": [
+                    "n5jxwzEO"
+                ],
+                " c#m f# b g# c#m f# b g# ": [
+                    "SBvAX9wv",
+                    "s0Mespml"
+                ],
+                " db gb db db gb gb db bb ": [
+                    "JUTH0dpa",
+                    "IvnOopt0"
+                ],
+                " bbm eb ab f bbm eb ab f ": [
+                    "bWBAseTY",
+                    "MXkT2i5Y",
+                    "lu3mlqFJ"
+                ],
+                " a d a a d d a f# bm ": [
+                    "MGkdEubE",
+                    "3aze7Sjo"
+                ],
+                " f# b f# f# b b f# d# g#m ": [
+                    "jN0SrK1N",
+                    "px0eyXz7",
+                    "6ES9wafy",
+                    "hzL3D9x9",
+                    "73gKFGDW"
+                ],
+                " e a e e a a e c# f#m ": [
+                    "MXpiLyYY",
+                    "bgYgE7vm"
+                ],
+                " g c g g c c g e am d g ": [
+                    "lyHnQTO5",
+                    "t7dcIDae",
+                    "dvVY3EYC"
+                ],
+                " gm c f d gm c f d ": [
+                    "tapoHpXb"
+                ],
+                " abm db gb eb abm db gb eb abm ": [
+                    "wMUs7vGt",
+                    "LaFlz0e5",
+                    "eZCFbxo4"
+                ],
+                " em a d b em a d b em ": [
+                    "XQ1dpNvj"
+                ],
+                " b e b b e e b g# c#m f# b ": [
+                    "IfbPTg0a"
+                ],
+                " dbm gbm cb fb bbb eb ab ab ": [
+                    "Np7AhBo3"
+                ],
+                " bbm eb ab db gm-5 c fm f ": [
+                    "ZivHo4kV",
+                    "uWbLGicp"
+                ],
+                " c#m f# b e a#m-5 d# g#m g# ": [
+                    "8PKZ4SC0"
+                ],
+                " e a e e a a e c# ": [
+                    "NIYCwLps",
+                    "2hh2NOg8"
+                ],
+                " gm c f bb em-5 a dm d gm ": [
+                    "OGEfUAXd",
+                    "XWWIh59d",
+                    "z9wddsfE",
+                    "MaJTI1zp"
+                ],
+                " g#m c# f# b e#m-5 a# d#m d# g#m ": [
+                    "WPbTB5pF",
+                    "fBfNCkqF",
+                    "z1dweeEc",
+                    "H5eA3Y5G",
+                    "409VqXQb"
+                ],
+                " cm f bb g cm f bb g ": [
+                    "nXatxbgK",
+                    "4Y4bNbaw",
+                    "leIjQoHK",
+                    "bvVbBI5z"
+                ],
+                " g#m c# f# d# g#m c# f# d# ": [
+                    "o0KbR7ur",
+                    "vKBZacs6",
+                    "mpkhCvRR"
+                ],
+                " fm bb eb ab dm-5 g cm c ": [
+                    "bDy1ekrx",
+                    "xkHVGeKb",
+                    "eVFXfTjb"
+                ],
+                " gm c f d gm c f ": [
+                    "4vCBWjvn",
+                    "MQSTuy48",
+                    "R2MgLs4l"
+                ],
+                " gm c f bb em-5 a dm d ": [
+                    "UsZMTZfe"
+                ],
+                " ab db ab ab db db ab f bbm eb ab ": [
+                    "auKgTJLQ",
+                    "fFO2qTyD"
+                ],
+                " d g d d g g d b em ": [
+                    "for8s8Um",
+                    "ZVws5BsL",
+                    "RuAAw5sk",
+                    "JlGf96V7",
+                    "gaVNwYVb"
+                ],
+                " fm bbm eb ab db g c c ": [
+                    "0Ig57pIa",
+                    "IUCCaGJP",
+                    "11SHykUH"
+                ],
+                " abm db gb eb abm db gb eb abm db ": [
+                    "wZ1nqEoU"
+                ],
+                " ebm ab db gb cm-5 f bbm bb ebm ": [
+                    "1CRkLemF",
+                    "IkGsufwG"
+                ],
+                " c f c c f f c a dm ": [
+                    "RkLqdgeN",
+                    "lvygXFUe",
+                    "3HpINDab",
+                    "i5d0UiIU",
+                    "jt6TKUWq"
+                ],
+                " bbm eb ab f bbm eb ab f bbm ": [
+                    "VfREVu0u"
+                ],
+                " c#m f# b e a#m-5 d# g#m g# c#m ": [
+                    "ilYbNaaa",
+                    "D1Wy0tbJ",
+                    "jHX5r15F",
+                    "RQYjfFil"
+                ],
+                " cm f bb eb am-5 d gm g cm ": [
+                    "bbEltEVP"
+                ],
+                " cm f bb g cm f bb ": [
+                    "5OOhQ7XI"
+                ],
+                " c#m f# b g# c#m f# b ": [
+                    "4WabSuQU",
+                    "aTbw2ZBU",
+                    "K40TQexu"
+                ],
+                " bm e a f# bm e a f# ": [
+                    "6o3KybWZ"
+                ],
+                " bm e a f# bm e a f# bm ": [
+                    "EbIN65gW",
+                    "Dv8sdi74",
+                    "1Q653lLW"
+                ],
+                " bb eb bb bb eb eb bb g cm ": [
+                    "XFruJEmn",
+                    "TGbrytbS",
+                    "AMzwUUn8",
+                    "ZrDV5xUO",
+                    "0FLZnEUE"
+                ],
+                " f#m b e a d#m-5 g# c#m c# f#m ": [
+                    "2ymbXJE4",
+                    "SPXYRGkF",
+                    "Y90ljfal",
+                    "bYRyypyU",
+                    "E9bDaLvS"
+                ],
+                " eb ab eb eb ab ab eb c fm bb eb ": [
+                    "eo9cfMGv"
+                ],
+                " b e b b e e b g# c#m ": [
+                    "Hs1a6Ayn"
+                ],
+                " ebm ab db bb ebm ab db bb ": [
+                    "khejlxZ8",
+                    "Vm9hyvzN"
+                ],
+                " db gb db db gb gb db bb ebm ": [
+                    "yKl4PjY9",
+                    "RTVhZZMc"
+                ],
+                " ebm ab db gb cm-5 f bbm bb ": [
+                    "WSI7THQK",
+                    "I4cUmL4H",
+                    "MbNMnBB3"
+                ],
+                " em am d g c f# b ": [
+                    "xJ6I2riv"
+                ],
+                " am d g c f#m-5 b em e am ": [
+                    "j1mkWOah",
+                    "8lLh5dpm",
+                    "UlasNfa9",
+                    "9XK9JLUP",
+                    "IVLPh4lF",
+                    "Vro71ZJj"
+                ],
+                " am d g e am d g e ": [
+                    "cSKbmXwR",
+                    "lw3eKmo9"
+                ],
+                " fm bb eb c fm bb eb c ": [
+                    "wTyUtnwa",
+                    "efhAd314"
+                ],
+                " em am d g c f# b b ": [
+                    "axNl1LxL"
+                ],
+                " fm bb eb c fm bb eb ": [
+                    "b88PwBUk"
+                ],
+                " fm bb eb ab dm-5 g cm c fm ": [
+                    "9rtuOcHR",
+                    "tQrQEaV7"
+                ],
+                " g#m c# f# d# g#m c# f# d# g#m ": [
+                    "hn6FLUKV",
+                    "yaMasPZt"
+                ],
+                " gb cb gb gb cb cb gb eb abm ": [
+                    "RcYlEcCx",
+                    "E7pz4856"
+                ],
+                " ebm ab db bb ebm ab db bb ebm ": [
+                    "nbkBiQhW",
+                    "wNzUgmgW"
+                ],
+                " gm cm f bb eb a d d ": [
+                    "uO9Jy9DG"
+                ],
+                " em a d g c#m-5 f# bm b ": [
+                    "anvUMXV8"
+                ],
+                " ebm ab db bb ebm ab db ": [
+                    "PxSmPi13"
+                ],
+                " em a d b em a d ": [
+                    "bDvhaaQV",
+                    "FgOhcsxi"
+                ],
+                " dm g c f bm-5 e am a ": [
+                    "eAvCtSyD",
+                    "6c1MVtXr",
+                    "49GAjH8P"
+                ],
+                " fm bb eb c fm ": [
+                    "RuM6kCaJ",
+                    "r1Ax6ecs"
+                ],
+                " f bb f f bb bb f d ": [
+                    "HQG9GzaV",
+                    "Uusn9UWw"
+                ],
+                " eb ab eb eb ab ab eb c fm ": [
+                    "HAnNqaNd",
+                    "AruEJHKE",
+                    "Mm5RiKG9"
+                ],
+                " f bb f f bb bb f d gm ": [
+                    "lUXC6ZMZ",
+                    "BbS81bKO",
+                    "ZAnkSdPT",
+                    "7YAsq5X3"
+                ],
+                " ab db ab ab db db ab f bbm ": [
+                    "0hNnAckm"
+                ],
+                " bbm eb ab f bbm eb ab ": [
+                    "6SSIYvo0"
+                ],
+                " dm g c f bm-5 e am a dm ": [
+                    "2A48Asbh",
+                    "8SeG0Nmh"
+                ],
+                " eb ab eb eb ab ab eb c ": [
+                    "UvIqMmbP"
+                ],
+                " abm db gb cb fm-5 bb ebm eb ": [
+                    "Oko3gqFI"
+                ],
+                " g c g g c c g e am ": [
+                    "YtVEMwJk"
+                ],
+                " ab db ab ab db db ab f ": [
+                    "yKFd6W3n"
+                ],
+                " em a d b em a d b ": [
+                    "SYBbAxIG",
+                    "aC5kp0Tz"
+                ],
+                " f#m b e c# f#m b e c# ": [
+                    "bVUvTUsO",
+                    "4zhTMQxE",
+                    "rtSYYJpw"
+                ],
+                " em a d g c#m-5 f# bm b em ": [
+                    "xH1W16jM",
+                    "6TAofOVk",
+                    "xxRvwyfn",
+                    "HaCbhJ86"
+                ],
+                " am dm g c f b e e ": [
+                    "SdNlCeSC"
+                ],
+                " ebm ab db gb cb f bb ": [
+                    "EM4eb7EE"
+                ],
+                " cm f bb eb am-5 d gm ": [
+                    "ba8SNIkb",
+                    "5bD8JZPo"
+                ],
+                " abm db gb eb abm db gb eb ": [
+                    "u93d4Bvi"
+                ],
+                " g#m c#m f# b e a# d# d# ": [
+                    "X85BZ1bP"
+                ],
+                " dm g c a dm g c ": [
+                    "UEVLsvP8",
+                    "AsjBrNaO",
+                    "bPmb1qaa",
+                    "R6jIskzl"
+                ],
+                " b e b b e e b g# ": [
+                    "ehfasVso"
+                ],
+                " bm e a f# bm e a ": [
+                    "0KnIR7L6"
+                ]
+            }
+        },
+        "chords": {
+            "4/4": {
+                "| bm7 | e7 | amaj | f#7 | bm7 | e7 | amaj | f#7 |": [
+                    "6o3KybWZ"
+                ],
+                "| f#m7 | bm7 | e7 | amaj | dmaj | g#7 | c#maj |": [
+                    "eAuYOQ4l"
+                ],
+                "| c#m7 | f#7 | bmaj | emaj | a#m7-5 | d#7 | g#m7 | g#7 |": [
+                    "8PKZ4SC0"
+                ],
+                "| eb7 | ab7 | eb7 | eb7 | ab7 | ab7 | eb7 | c7 |": [
+                    "UvIqMmbP"
+                ],
+                "| gm7 | c7 | fmaj | d7 | gm7 | c7 | fmaj | d7 | gm7 |": [
+                    "TXaxwaKw"
+                ],
+                "| f#m7 | b7 | emaj | c#7 | f#m7 | b7 | emaj | c#7 | f#m7 |": [
+                    "NbSBuLRo",
+                    "HyyiT1sZ"
+                ],
+                "| fm7 | bb7 | ebmaj | abmaj | dm7-5 | g7 | cm7 | c7 | fm7 |": [
+                    "9rtuOcHR",
+                    "tQrQEaV7"
+                ],
+                "| f#7 | b7 | f#7 | f#7 | b7 | b7 | f#7 | d#7 | g#m7 |": [
+                    "jN0SrK1N",
+                    "px0eyXz7",
+                    "6ES9wafy",
+                    "hzL3D9x9",
+                    "73gKFGDW"
+                ],
+                "| eb7 | ab7 | eb7 | eb7 | ab7 | ab7 | eb7 | c7 | fm7 |": [
+                    "HAnNqaNd",
+                    "AruEJHKE",
+                    "Mm5RiKG9"
+                ],
+                "| dm7 | g7 | cmaj | fmaj | bm7-5 | e7 | am7 | a7 | dm7 |": [
+                    "2A48Asbh",
+                    "8SeG0Nmh"
+                ],
+                "| dm7 | g7 | cmaj | fmaj | bm7-5 | e7 | am7 | a7 |": [
+                    "eAvCtSyD",
+                    "6c1MVtXr",
+                    "49GAjH8P"
+                ],
+                "| gm7 | c7 | fmaj | bbmaj | em7-5 | a7 | dm7 | d7 |": [
+                    "UsZMTZfe"
+                ],
+                "| g#m7 | c#7 | f#maj | bmaj | e#m7-5 | a#7 | d#m7 | d#7 | g#m7 |": [
+                    "WPbTB5pF",
+                    "fBfNCkqF",
+                    "z1dweeEc",
+                    "H5eA3Y5G",
+                    "409VqXQb"
+                ],
+                "| db7 | gb7 | db7 | db7 | gb7 | gb7 | db7 | bb7 | ebm7 |": [
+                    "yKl4PjY9",
+                    "RTVhZZMc"
+                ],
+                "| ebm7 | ab7 | dbmaj | bb7 | ebm7 | ab7 | dbmaj | bb7 |": [
+                    "khejlxZ8",
+                    "Vm9hyvzN"
+                ],
+                "| b7 | e7 | b7 | b7 | e7 | e7 | b7 | g#7 | c#m7 | f#7 | b7 |": [
+                    "IfbPTg0a"
+                ],
+                "| f7 | bb7 | f7 | f7 | bb7 | bb7 | f7 | d7 |": [
+                    "HQG9GzaV",
+                    "Uusn9UWw"
+                ],
+                "| g7 | c7 | g7 | g7 | c7 | c7 | g7 | e7 | am7 |": [
+                    "YtVEMwJk"
+                ],
+                "| em7 | a7 | dmaj | b7 | em7 | a7 | dmaj |": [
+                    "bDvhaaQV",
+                    "FgOhcsxi"
+                ],
+                "| ab7 | db7 | ab7 | ab7 | db7 | db7 | ab7 | f7 |": [
+                    "yKFd6W3n"
+                ],
+                "| ab7 | db7 | ab7 | ab7 | db7 | db7 | ab7 | f7 | bbm7 |": [
+                    "0hNnAckm"
+                ],
+                "| bm7 | e7 | amaj | f#7 | bm7 | e7 | amaj |": [
+                    "0KnIR7L6"
+                ],
+                "| cm7 | f7 | bbmaj | ebmaj | am7-5 | d7 | gm7 | g7 |": [
+                    "VaMANkC7",
+                    "0DNNQhJv"
+                ],
+                "| gm7 | c7 | fmaj | d7 | gm7 | c7 | fmaj | d7 |": [
+                    "tapoHpXb"
+                ],
+                "| bbm7 | eb7 | abmaj | f7 | bbm7 | eb7 | abmaj |": [
+                    "6SSIYvo0"
+                ],
+                "| a7 | d7 | a7 | a7 | d7 | d7 | a7 | f#7 | bm7 |": [
+                    "MGkdEubE",
+                    "3aze7Sjo"
+                ],
+                "| c#m7 | f#7 | bmaj | emaj | a#m7-5 | d#7 | g#m7 | g#7 | c#m7 |": [
+                    "ilYbNaaa",
+                    "D1Wy0tbJ",
+                    "jHX5r15F",
+                    "RQYjfFil"
+                ],
+                "| g7 | c7 | g7 | g7 | c7 | c7 | g7 | e7 | am7 | d7 | g7 |": [
+                    "lyHnQTO5",
+                    "t7dcIDae",
+                    "dvVY3EYC"
+                ],
+                "| em7 | a7 | dmaj | b7 | em7 | a7 | dmaj | b7 | em7 |": [
+                    "XQ1dpNvj"
+                ],
+                "| c#m7 | f#7 | bmaj | g#7 | c#m7 | f#7 | bmaj |": [
+                    "4WabSuQU",
+                    "aTbw2ZBU",
+                    "K40TQexu"
+                ],
+                "| cm7 | f7 | bbmaj | ebmaj | am7-5 | d7 | gm7 | g7 | cm7 |": [
+                    "bbEltEVP"
+                ],
+                "| cm7 | f7 | bbmaj | ebmaj | am7-5 | d7 | gm7 |": [
+                    "ba8SNIkb",
+                    "5bD8JZPo"
+                ],
+                "| fm7 | bbm7 | eb7 | abmaj | dbmaj | g7 | cmaj | cmaj |": [
+                    "0Ig57pIa",
+                    "IUCCaGJP",
+                    "11SHykUH"
+                ],
+                "| bb7 | eb7 | bb7 | bb7 | eb7 | eb7 | bb7 | g7 | cm7 |": [
+                    "XFruJEmn",
+                    "TGbrytbS",
+                    "AMzwUUn8",
+                    "ZrDV5xUO",
+                    "0FLZnEUE"
+                ],
+                "| bbm7 | eb7 | abmaj | f7 | bbm7 | eb7 | abmaj | f7 |": [
+                    "bWBAseTY",
+                    "MXkT2i5Y",
+                    "lu3mlqFJ"
+                ],
+                "| cm7 | f7 | bbmaj | g7 | cm7 | f7 | bbmaj | g7 |": [
+                    "nXatxbgK",
+                    "4Y4bNbaw",
+                    "leIjQoHK",
+                    "bvVbBI5z"
+                ],
+                "| gm7 | cm7 | f7 | bbmaj | ebmaj | a7 | dmaj | dmaj |": [
+                    "uO9Jy9DG"
+                ],
+                "| c7 | f7 | c7 | c7 | f7 | f7 | c7 | a7 | dm7 |": [
+                    "RkLqdgeN",
+                    "lvygXFUe",
+                    "3HpINDab",
+                    "i5d0UiIU",
+                    "jt6TKUWq"
+                ],
+                "| e7 | a7 | e7 | e7 | a7 | a7 | e7 | c#7 | f#m7 |": [
+                    "MXpiLyYY",
+                    "bgYgE7vm"
+                ],
+                "| abm7 | db7 | gbmaj | cbmaj | fm7-5 | bb7 | ebm7 | eb7 |": [
+                    "Oko3gqFI"
+                ],
+                "| ebm7 | ab7 | dbmaj | gbmaj | cm7-5 | f7 | bbm7 | bb7 |": [
+                    "WSI7THQK",
+                    "I4cUmL4H",
+                    "MbNMnBB3"
+                ],
+                "| em7 | a7 | dmaj | gmaj | c#m7-5 | f#7 | bm7 | b7 | em7 |": [
+                    "xH1W16jM",
+                    "6TAofOVk",
+                    "xxRvwyfn",
+                    "HaCbhJ86"
+                ],
+                "| bm7 | e7 | amaj | f#7 | bm7 | e7 | amaj | f#7 | bm7 |": [
+                    "EbIN65gW",
+                    "Dv8sdi74",
+                    "1Q653lLW"
+                ],
+                "| dm7 | g7 | cmaj | a7 | dm7 | g7 | cmaj |": [
+                    "UEVLsvP8",
+                    "AsjBrNaO",
+                    "bPmb1qaa",
+                    "R6jIskzl"
+                ],
+                "| ab7 | db7 | ab7 | ab7 | db7 | db7 | ab7 | f7 | bbm7 | eb7 | ab7 |": [
+                    "auKgTJLQ",
+                    "fFO2qTyD"
+                ],
+                "| am7 | d7 | gmaj | e7 | am7 | d7 | gmaj | e7 | am7 |": [
+                    "i2QABcPN",
+                    "tkaUxR8S"
+                ],
+                "| b7 | e7 | b7 | b7 | e7 | e7 | b7 | g#7 | c#m7 |": [
+                    "Hs1a6Ayn"
+                ],
+                "| ebm7 | ab7 | dbmaj | bb7 | ebm7 | ab7 | dbmaj | bb7 | ebm7 |": [
+                    "nbkBiQhW",
+                    "wNzUgmgW"
+                ],
+                "| fm7 | bb7 | ebmaj | c7 | fm7 | bb7 | ebmaj |": [
+                    "b88PwBUk"
+                ],
+                "| a7 | d7 | a7 | a7 | d7 | d7 | a7 | f#7 |": [
+                    "1kCzdMXA",
+                    "dYqEZXCk",
+                    "xGwZ5wXY"
+                ],
+                "| gb7 | cb7 | gb7 | gb7 | cb7 | cb7 | gb7 | eb7 | abm7 |": [
+                    "RcYlEcCx",
+                    "E7pz4856"
+                ],
+                "| am7 | d7 | gmaj | e7 | am7 | d7 | gmaj | e7 |": [
+                    "cSKbmXwR",
+                    "lw3eKmo9"
+                ],
+                "| c#m7 | f#7 | bmaj | g#7 | c#m7 | f#7 | bmaj | g#7 |": [
+                    "SBvAX9wv",
+                    "s0Mespml"
+                ],
+                "| g#m7 | c#m7 | f#7 | bmaj | emaj | a#7 | d#maj | d#maj |": [
+                    "X85BZ1bP"
+                ],
+                "| gb7 | cb7 | gb7 | gb7 | cb7 | cb7 | gb7 | eb7 |": [
+                    "n5jxwzEO"
+                ],
+                "| ebm7 | ab7 | db7 | gbmaj | cbmaj | f7 | bbmaj |": [
+                    "EM4eb7EE"
+                ],
+                "| em7 | am7 | d7 | gmaj | cmaj | f#7 | bmaj |": [
+                    "xJ6I2riv"
+                ],
+                "| dm7 | g7 | cmaj | a7 | dm7 | g7 | cmaj | a7 |": [
+                    "0xc683Cy"
+                ],
+                "| abm7 | db7 | gbmaj | cbmaj | fm7-5 | bb7 | ebm7 | eb7 | abm7 |": [
+                    "cIzcZm1t",
+                    "iMGUdlul",
+                    "GbSonrgi",
+                    "8BYnmF75"
+                ],
+                "| bbm7 | eb7 | abmaj | dbmaj | gm7-5 | c7 | fm7 | f7 | bbm7 |": [
+                    "rf5u7jnW",
+                    "7JmQszOe",
+                    "9QrCV40p"
+                ],
+                "| ebm7 | ab7 | dbmaj | bb7 | ebm7 | ab7 | dbmaj |": [
+                    "PxSmPi13"
+                ],
+                "| ebm7 | ab7 | dbmaj | gbmaj | cm7-5 | f7 | bbm7 | bb7 | ebm7 |": [
+                    "1CRkLemF",
+                    "IkGsufwG"
+                ],
+                "| g#m7 | c#7 | f#maj | d#7 | g#m7 | c#7 | f#maj | d#7 |": [
+                    "o0KbR7ur",
+                    "vKBZacs6",
+                    "mpkhCvRR"
+                ],
+                "| bbm7 | eb7 | abmaj | f7 | bbm7 | eb7 | abmaj | f7 | bbm7 |": [
+                    "VfREVu0u"
+                ],
+                "| b7 | e7 | b7 | b7 | e7 | e7 | b7 | g#7 |": [
+                    "ehfasVso"
+                ],
+                "| gm7 | c7 | fmaj | d7 | gm7 | c7 | fmaj |": [
+                    "4vCBWjvn",
+                    "MQSTuy48",
+                    "R2MgLs4l"
+                ],
+                "| g#m7 | c#7 | f#maj | d#7 | g#m7 | c#7 | f#maj | d#7 | g#m7 |": [
+                    "hn6FLUKV",
+                    "yaMasPZt"
+                ],
+                "| f#m7 | b7 | emaj | amaj | d#m7-5 | g#7 | c#m7 | c#7 | f#m7 |": [
+                    "2ymbXJE4",
+                    "SPXYRGkF",
+                    "Y90ljfal",
+                    "bYRyypyU",
+                    "E9bDaLvS"
+                ],
+                "| em7 | am7 | d7 | gmaj | cmaj | f#7 | bmaj | bmaj |": [
+                    "axNl1LxL"
+                ],
+                "| gm7 | c7 | fmaj | bbmaj | em7-5 | a7 | dm7 | d7 | gm7 |": [
+                    "OGEfUAXd",
+                    "XWWIh59d",
+                    "z9wddsfE",
+                    "MaJTI1zp"
+                ],
+                "| fm7 | bb7 | ebmaj | c7 | fm7 | bb7 | ebmaj | c7 |": [
+                    "wTyUtnwa",
+                    "efhAd314"
+                ],
+                "| am7 | d7 | gmaj | cmaj | f#m7-5 | b7 | em7 | e7 | am7 |": [
+                    "j1mkWOah",
+                    "8lLh5dpm",
+                    "UlasNfa9",
+                    "9XK9JLUP",
+                    "IVLPh4lF",
+                    "Vro71ZJj"
+                ],
+                "| abm7 | db7 | gbmaj | eb7 | abm7 | db7 | gbmaj | eb7 |": [
+                    "u93d4Bvi"
+                ],
+                "| em7 | a7 | dmaj | b7 | em7 | a7 | dmaj | b7 |": [
+                    "SYBbAxIG",
+                    "aC5kp0Tz"
+                ],
+                "| bm7 | e7 | amaj | dmaj | g#m7-5 | c#7 | f#m7 | f#7 | bm7 |": [
+                    "AXS3sVGP",
+                    "RmtnKktl",
+                    "9ug92LwQ",
+                    "DGNKMPKK",
+                    "bGOS7LCE"
+                ],
+                "| db7 | gb7 | db7 | db7 | gb7 | gb7 | db7 | bb7 |": [
+                    "JUTH0dpa",
+                    "IvnOopt0"
+                ],
+                "| eb7 | ab7 | eb7 | eb7 | ab7 | ab7 | eb7 | c7 | fm7 | bb7 | eb7 |": [
+                    "eo9cfMGv"
+                ],
+                "| fm7 | bb7 | ebmaj | abmaj | dm7-5 | g7 | cm7 | c7 |": [
+                    "bDy1ekrx",
+                    "xkHVGeKb",
+                    "eVFXfTjb"
+                ],
+                "| e7 | a7 | e7 | e7 | a7 | a7 | e7 | c#7 |": [
+                    "NIYCwLps",
+                    "2hh2NOg8"
+                ],
+                "| cm7 | f7 | bbmaj | g7 | cm7 | f7 | bbmaj |": [
+                    "5OOhQ7XI"
+                ],
+                "| d7 | g7 | d7 | d7 | g7 | g7 | d7 | b7 | em7 |": [
+                    "for8s8Um",
+                    "ZVws5BsL",
+                    "RuAAw5sk",
+                    "JlGf96V7",
+                    "gaVNwYVb"
+                ],
+                "| abm7 | db7 | gbmaj | eb7 | abm7 | db7 | gbmaj | eb7 | abm7 |": [
+                    "wMUs7vGt",
+                    "LaFlz0e5",
+                    "eZCFbxo4"
+                ],
+                "| bbm7 | eb7 | abmaj | dbmaj | gm7-5 | c7 | fm7 | f7 |": [
+                    "ZivHo4kV",
+                    "uWbLGicp"
+                ],
+                "| fm7 | bbm7 | eb7 | abmaj | dbmaj | g7 | cmaj |": [
+                    "JOBvE2NO",
+                    "iVGHTl7G"
+                ],
+                "| abm7 | db7 | gbmaj | eb7 | abm7 | db7 | gbmaj | eb7 | abm7 | db7 |": [
+                    "wZ1nqEoU"
+                ],
+                "| am7 | d7 | gmaj | e7 | am7 | d7 | gmaj |": [
+                    "NnUXaFc9"
+                ],
+                "| fm7 | bb7 | ebmaj | c7 | fm7 |": [
+                    "RuM6kCaJ",
+                    "r1Ax6ecs"
+                ],
+                "| am7 | dm7 | g7 | cmaj | fmaj | b7 | emaj | emaj |": [
+                    "SdNlCeSC"
+                ],
+                "| f#m7 | b7 | emaj | c#7 | f#m7 | b7 | emaj | c#7 |": [
+                    "bVUvTUsO",
+                    "4zhTMQxE",
+                    "rtSYYJpw"
+                ],
+                "| em7 | a7 | dmaj | gmaj | c#m7-5 | f#7 | bm7 | b7 |": [
+                    "anvUMXV8"
+                ],
+                "| f7 | bb7 | f7 | f7 | bb7 | bb7 | f7 | d7 | gm7 |": [
+                    "lUXC6ZMZ",
+                    "BbS81bKO",
+                    "ZAnkSdPT",
+                    "7YAsq5X3"
+                ],
+                "| dbm7 | gbm7 | cb7 | fbmaj | bbbmaj | eb7 | abmaj | abmaj |": [
+                    "Np7AhBo3"
+                ]
+            }
+        }
+    },
+    "autocomplete": {
+        "Major 2 5 1 6": [
+            "c",
+            "| dm7 | g7 | cmaj | a7 |"
+        ],
+        "Autumn Leaves": [
+            "gm",
+            "| cm7 | f7 | bbmaj | ebmaj | am7-5 | d7 | gm7 |"
+        ],
+        "All The Things You Are": [
+            "ab",
+            "| fm7 | bbm7 | eb7 | abmaj | dbmaj | g7 |"
+        ],
+        "Blues": [
+            "f",
+            "| f7 | bb7 | f7 | f7 |"
+        ]
+    }
+}
