@@ -24,7 +24,7 @@ On the website, the licks are stored as .png partitions. To retrive the musical 
 
 Python was used to automate all this process, I made a bunch of scripts that took care of the web scraping, the Audiveris mxl export and the mxl to xml convertion.
 
-![alt text](images/bopland2xml.png "Logo Title Text 1")
+![alt text](images/bopland2xml.png "MusicXML retriving diagram")
 
 
 This collection is licensed under a
