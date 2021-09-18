@@ -1,6 +1,4 @@
-# BoplandLicksForDevelopers
-
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+# BoplandLicksForDevelopers [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 ## Description
 This repository contains a collection of musicXML jazz licks (melodic segments) that were retrived from the [BopLand](https://www.bopland.org/) website.
