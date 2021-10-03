@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.0.1">
+  <identification>
+    <encoding>
+      <software>Audiveris 5.2.3</software>
+      <supports type="yes" element="print" attribute="new-system" value="yes"></supports>
+      <supports type="yes" element="print" attribute="new-page" value="yes"></supports>
+      <software>ProxyMusic 3.0.1.8e1a2c5</software>
+      <encoding-date>2021-10-03</encoding-date>
+    </encoding>
+    <source>C:\Stockage\Creation\Dev\Python\BoplandScrapping\websiteContent\Images\treble-clef-licks\Vd0T9By8.png</source>
+    <miscellaneous>
+      <miscellaneous-field name="source-file">C:\Stockage\Creation\Dev\Python\BoplandScrapping\websiteContent\Images\treble-clef-licks\Vd0T9By8.png</miscellaneous-field>
+      <miscellaneous-field name="source-sheet-1">1</miscellaneous-field>
+    </miscellaneous>
+  </identification>
+  <defaults>
+    <scaling>
+      <millimeters>7.1120</millimeters>
+      <tenths>40</tenths>
+    </scaling>
+    <page-layout>
+      <page-height>650</page-height>
+      <page-width>939</page-width>
+      <page-margins type="both">
+        <left-margin>80</left-margin>
+        <right-margin>80</right-margin>
+        <top-margin>80</top-margin>
+        <bottom-margin>80</bottom-margin>
+      </page-margins>
+    </page-layout>
+    <lyric-font font-family="Default" font-size="10"></lyric-font>
+  </defaults>
+  <credit page="1">
+    <credit-words default-x="211" default-y="3" font-family="serif" font-style="italic" font-size="9">3</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="386" default-y="3" font-family="serif" font-style="italic" font-size="9">3</credit-words>
+  </credit>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Voice</part-name>
+      <score-instrument id="P1-I1">
+        <instrument-name>Piano</instrument-name>
+      </score-instrument>
+      <midi-instrument id="P1-I1">
+        <midi-channel>1</midi-channel>
+        <midi-program>54</midi-program>
+        <volume>78</volume>
+      </midi-instrument>
+    </score-part>
+  </part-list>
+  <!--= = = = = = = = = = = = = = = = = = = = = = = = = = = = =-->
+  <part id="P1">
+    <!--=======================================================-->
+    <measure number="1" width="346">
+      <print>
+        <system-layout>
+          <system-margins>
+            <left-margin>-80</left-margin>
+            <right-margin>-79</right-margin>
+          </system-margins>
+          <top-system-distance>-33</top-system-distance>
+        </system-layout>
+        <measure-numbering>system</measure-numbering>
+      </print>
+      <attributes>
+        <divisions>4</divisions>
+        <key>
+          <fifths>3</fifths>
+        </key>
+        <time>
+          <beats>0</beats>
+          <beat-type>0</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+        <staff-details print-object="yes"></staff-details>
+      </attributes>
+      <direction placement="above">
+        <direction-type>
+          <words></words>
+        </direction-type>
+        <sound tempo="120"></sound>
+      </direction>
+    </measure>
+    <!--=======================================================-->
+    <measure number="2" width="252"></measure>
+    <!--=======================================================-->
+    <measure number="3" width="196"></measure>
+    <!--=======================================================-->
+    <measure number="4" width="144"></measure>
+  </part>
+</score-partwise>
