@@ -1,7 +1,7 @@
 # BoplandLicksForDevelopers [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 ## Description
-This repository contains a collection of musicXML jazz licks (melodic segments) that were retrived from the [BopLand](https://www.bopland.org/) website.
+This repository contains a collection of musicXML jazz licks (melodic segments) that were retrieved from the [BopLand](https://www.bopland.org/) website.
 
 The licks are classified in 4 category :
 - bass-clef-licks
@@ -9,18 +9,18 @@ The licks are classified in 4 category :
 - treble-clef-licks
 - walking-bass-lines
 
-Repository organisation :
+Repository organization :
 
 - `lick/image` contains the `.png` partition version of the licks
-- `lick/jsonTag` contains for each category a json files providing tagging informations for every licks
-- `lick/musicXML` contains the acctual `.xml` files providing the musical datas
+- `lick/jsonTag` contains for each category a json files providing tagging information for every licks
+- `lick/musicXML` contains the actual `.xml` files providing the musical data (only treble-clef-licks and walking-bass-line are presents because bass-clef-licks, guitar-licks and treble-clef-licks are redundant, they contains the same licks but noted with the corresponding clef/notations)
 
 ## Why / How
-When I tried to contact BopLand devs to ask if they could share their lick librairy in a more developer friendly format, I got no answer. So I decided to retrive them myself and share them in case someone else had the same idea.
+When I tried to contact BopLand devs to ask if they could share their lick library in a more developer friendly format, I got no answer. So I decided to retrieve them myself and share them in case someone else had the same idea.
 
-On the website, the licks are stored as .png partitions. To retrive the musical data from these images the Optical Music Recognition software [Audiveris](https://github.com/Audiveris/audiveris) was used.
+On the website, the licks are stored as .png partitions. To retrieve the musical data from these images the Optical Music Recognition software [Audiveris](https://github.com/Audiveris/audiveris) was used.
 
-Python was used to automate all this process, I made a bunch of scripts that took care of the web scraping, the Audiveris mxl export and the mxl to xml convertion.
+Python was used to automate all this process, I made a bunch of scripts that took care of the web scraping, the Audiveris mxl export and the mxl to xml conversion.
 
 ![alt text](images/bopland2xml.png "MusicXML retriving diagram")
 
